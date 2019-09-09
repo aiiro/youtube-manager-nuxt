@@ -1,0 +1,26 @@
+{
+  "name": "youtube-manager-nuxt",
+  "version": "1.0.0",
+  "description": "My impressive Nuxt.js project",
+  "author": "aiiro",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "cookie-universal-nuxt": "^2.0.17",
+    "firebase": "^6.5.0",
+    "nuxt": "^2.0.0",
+    "qs": "^6.8.0",
+    "vue-youtube": "^1.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
