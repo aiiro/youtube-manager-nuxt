@@ -14,13 +14,17 @@
         <div class="navbar-item">
           <div class="field has-addons">
             <form action="/search" method="get">
-              <input name="q" class="input" type="text" placeholder="検索">
+              <div class="field has-addons">
+                <div class="control">
+                  <input name="q" class="input" type="text" placeholder="検索">
+                </div>
+                <div class="control">
+                  <button class="button">
+                    Search
+                  </button>
+                </div>
+              </div>
             </form>
-            <p class="control">
-              <button class="button">
-                Search
-              </button>
-            </p>
           </div>
         </div>
       </div>
