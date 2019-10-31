@@ -46,7 +46,7 @@
           <div v-for="relatedItem in relatedItems">
             <hr>
             <nuxt-link
-                :to="`/${relatedItem.id.videoId}`"
+                :to="`/video/${relatedItem.id.videoId}`"
             >
               <article class="media">
                 <div class="media-left">
