@@ -16,7 +16,7 @@
     "@nuxtjs/bulma": "^1.2.1",
     "cookie-universal-nuxt": "^2.0.17",
     "firebase": "^6.5.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "qs": "^6.8.0",
     "vue-youtube": "^1.3.5"
   },
